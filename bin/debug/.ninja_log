@@ -1,0 +1,15 @@
+# ninja log v5
+917	1119	6785581771228914	rgraphics.exe	260a229a9b4587a8
+11	1843	6784889799908241	deps/glad/CMakeFiles/glad.dir/src/glad.c.obj	c8dcdef8719dd4a0
+288	610	6785580722409804	CMakeFiles/rgraphics.dir/src/vertex_layout.cpp.obj	7810c4382e833b0d
+1845	1920	6784889800694988	deps/glad/libglad.a	4dbb48383455a631
+6	288	6785580719178444	CMakeFiles/rgraphics.dir/src/buffer.cpp.obj	f0584ae025bfb469
+1	279	6786319243901948	build.ninja	f1de400789621545
+7	372	6785580720006235	CMakeFiles/rgraphics.dir/src/vertex_array.cpp.obj	8e2b4076c5af3a44
+610	664	6785580722948367	CMakeFiles/rgraphics.dir/src/shader.cpp.obj	d2c5f65c046ef18a
+4	696	6785580723267510	CMakeFiles/rgraphics.dir/src/window.cpp.obj	811a7a74fd7e57a9
+9	1107	6785580727376523	CMakeFiles/rgraphics.dir/main.cpp.obj	2fa61f8c06696597
+5	917	6785581769249131	CMakeFiles/rgraphics.dir/src/shader_lib.cpp.obj	f6d611a6592246fd
+123	611	6786432379859706	CMakeFiles/rgraphics.dir/src/material.cpp.obj	a1de9c2a7687ea6f
+83	2056	6786432394391221	CMakeFiles/rgraphics.dir/src/shader.cpp.obj	d2c5f65c046ef18a
+26	2216	6786432396051876	CMakeFiles/rgraphics.dir/main.cpp.obj	2fa61f8c06696597

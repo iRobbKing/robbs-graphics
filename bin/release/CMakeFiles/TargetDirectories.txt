@@ -1,0 +1,10 @@
+F:/CLionFiles/graphics/bin/release/CMakeFiles/rgraphics.dir
+F:/CLionFiles/graphics/bin/release/CMakeFiles/edit_cache.dir
+F:/CLionFiles/graphics/bin/release/CMakeFiles/rebuild_cache.dir
+F:/CLionFiles/graphics/bin/release/deps/glad/CMakeFiles/glad.dir
+F:/CLionFiles/graphics/bin/release/deps/glad/CMakeFiles/edit_cache.dir
+F:/CLionFiles/graphics/bin/release/deps/glad/CMakeFiles/rebuild_cache.dir
+F:/CLionFiles/graphics/bin/release/deps/glfw/CMakeFiles/edit_cache.dir
+F:/CLionFiles/graphics/bin/release/deps/glfw/CMakeFiles/rebuild_cache.dir
+F:/CLionFiles/graphics/bin/release/deps/coro/CMakeFiles/edit_cache.dir
+F:/CLionFiles/graphics/bin/release/deps/coro/CMakeFiles/rebuild_cache.dir
